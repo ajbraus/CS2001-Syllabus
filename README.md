@@ -1,5 +1,7 @@
 # CS2001-Syllabus
 
+Turn these in 
+
 ## Tutorials & Projects
 
 1. [Dash 1-3](https://dash.generalassemb.ly/)
@@ -11,4 +13,4 @@
 1. Bootstrap Your Wireframe
 1. [Giphy App](https://www.makeschool.com/academy/track/giphy-search-app-with-node-js)
 1. [Make Parties](https://www.makeschool.com/academy/track/make-tweets)
-1. Contractor Project
+1. [Contractor Project](https://docs.google.com/document/d/1g_f0QUpBcLDJXuOEqED815zgxK3xxmlz49ynvP2NXmY/edit?usp=sharing)
