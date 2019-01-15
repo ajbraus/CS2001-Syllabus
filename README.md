@@ -11,4 +11,4 @@ Turn these in the [Course Tracker](https://docs.google.com/spreadsheets/d/1WB_dI
 1. [Code Academy jQuery](https://www.codecademy.com/learn/learn-jquery)
 1. [Giphy App](https://www.makeschool.com/academy/track/giphy-search-app-with-node-js)
 1. [Make Parties](https://www.makeschool.com/academy/track/make-tweets)
-1. [Contractor Project](https://docs.google.com/document/d/1g_f0QUpBcLDJXuOEqED815zgxK3xxmlz49ynvP2NXmY/edit?usp=sharing)
+1. [Contractor Project](https://docs.google.com/document/d/1N7J7BtnuyNsS1IK3HHyVHdRbSWLvMc2zmMm-tNHMMhc/edit#)
